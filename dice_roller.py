@@ -1,5 +1,11 @@
 import random
+'''
+Some later ideas for this project:
+     - Add more inputs (like player or team name)
+     - Store each player's roll totals in separate arrays
+     - Choose a dice-based game that you can fully simulate using python.
 
+'''
 # Main method
 def main():
      # Initializing Variables
